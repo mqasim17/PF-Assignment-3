@@ -1,0 +1,11 @@
+a) Header files
+
+Header files contain ready-made functions and declarations that we include in our program, like <iostream>.
+
+b) Source code
+
+Source code is the actual code written by the programmer in a text file before it is compiled.
+
+c) Comments
+
+Comments are notes written inside the code to explain what it does. They are ignored by the compiler.
